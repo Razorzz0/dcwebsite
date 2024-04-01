@@ -11,8 +11,8 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">MusicMaker</p>
+                                <img src="/img/logo.png" className="rounded-full w-12" />
+                                <p className="font-semibold text-xl text-white">Cliff Studios</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -56,21 +56,21 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
+                                <Link href="https://discord.gg/nrNR3cg7">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Disocrd 
+                                    <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/umutxyp/MusicBot">
+                                <Link href="/500">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
+                                <Link href="https://youtube.com/Cliff1545">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
@@ -78,7 +78,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli</p>
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
@@ -97,7 +97,7 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; MusicMaker
+                            {new Date().getFullYear()} &copy; Cliff Studios
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
@@ -105,7 +105,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Nodesty ❤️"}
+                            {"Powered by SysSec"}
                         </p>
                     </div>
                 </div>
