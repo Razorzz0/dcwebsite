@@ -10,30 +10,30 @@ class MyDocument extends Document {
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
-            name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            name="açıklama"
+            content="Hiç durmadan sunucunuzu korumaya ve güncelleştirmeye devam etmek ister misiniz?"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta name="twitter:site" content="@CliffStudios" />
+          <meta name="twitter:creator" content="@CliffStudios" />
+          <meta property="og:url" content="https://cliffstudios.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Cliff Studios" />
           <link
             rel="icon"
             href="/img/logo2.png"
             type="image/x-icon"
           />
           <meta
-            property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            property="og:açıklama"
+            content="Hiç durmadan sunucunuzu korumaya ve güncelleştirmeye devam etmek ister misiniz?"
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="Cliff Studios" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="MusicMaker"
+            content="Cliff Studios"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
