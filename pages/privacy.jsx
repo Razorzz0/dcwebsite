@@ -7,7 +7,7 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ Cliff Studios V1 botunu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekir. <a className="text-white">(ADMİNSTATOR)</a></p>
         <div className="py-3"></div>
-        <p>⊳ Cliff Bots V1 İçin Oy Vermelisiniz <a className="text-white" href="/404">MusicMaker</a> bot komutlarından belirli komutları kullanırken bot.</p>
+        <p>⊳ Cliff Bots V1 İçin Oy Vermelisiniz <a className="text-white" href="/404">Cliff Bots V1</a> bot komutlarından belirli komutları kullanırken bot.</p>
         <div className="py-3"></div>
         <p>⊳ Her kullanıcı, zarar verme niyetinde olmadığı sürece Cliff Bots V1 botunu dilediği gibi kullanabilir.</p>
         <div className="py-3"></div>
