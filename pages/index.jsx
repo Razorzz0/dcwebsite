@@ -63,7 +63,7 @@ export default function Index() {
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Evrensel</p>
-                  <p className="text-gray-500 line-clamp-4">) Bu bot ile aklına gelebilecek herşeyi yapabilirsin!</p>
+                  <p className="text-gray-500 line-clamp-4">Bu bot ile aklına gelebilecek herşeyi yapabilirsin!</p>
                 </div>
               </div>
               <div>
