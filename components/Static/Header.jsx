@@ -11,7 +11,7 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
         <div className={`transform ${open ? '' : 'translate-x-full'} transition-all duration-300 bg-black bg-opacity-90 text-white w-80 fixed rounded-l-xl z-60 right-0 top-0 h-full lg:translate-x-full`}>
             <div className="relative w-full h-full">
 
-                <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
+                <div className="flex justify-between border-b border-white/20 items-center px-10 py-8">
                     <div className="flex items-center">
                         <img width="64" className="rounded-full icon-glow" src="/img/logo.jpg" />
                         <p className=" font-extrabold ml-1 text-2xl">Cliff Studios</p>
