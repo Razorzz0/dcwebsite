@@ -20,42 +20,42 @@ export default function AwardApp({ Component, pageProps }) {
   const NavItems = [
     {
       link: true,
-      name: "Home",
+      name: "Ana Sayfa",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
       href: "/",
     },
     {
       link: true,
-      name: "Commands",
+      name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/commands",
     },
     {
       link: true,
-      name: "Support",
+      name: "Yardım",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/YDGpPRXZrt",
     },
     {
       link: true,
-      name: "Add Bot",
+      name: "Botu Sunucuna Ekle",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands",
+      href: "https://discord.com/oauth2/authorize?client_id=1183834629883576381&scope=bot%20applications.commands&permissions=0",
     },
        {
       link: true,
-      name: "Vote",
+      name: "Botu Oyla",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      href: "/404",
     },
     {
       link: true,
-      name: "Partners",
+      name: "Partnerler",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          MusicMaker
+          Cliff Studios
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
