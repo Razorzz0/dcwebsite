@@ -9,7 +9,7 @@ export default function Partners() {
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
-                    Partners
+                    Partnerler
                 </h1>
             </div>
 
@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      Code Share, geliştiricilerin projelerini paylaşmaları, diğer geliştiricilerle etkileşime girmeleri ve projelerini para karşılığında satmaları, farklı kategorilerde ve yazılım dillerinde birçok projeyi keşfetmeleri için ideal bir platform sunar.
                                     </p>
                                 </div>     
                             </div>
@@ -40,7 +40,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                   DISCOUNT CODE: CODESHARE Experience uninterrupted internet speed up to 10Gb and cheap intel i9, amd ryzen series vds with Nodesty. Shop with Code Share assurance.
+                                   İNDİRİM KODU: CODESHARE Nodesty ile 10Gb'a kadar kesintisiz internet hızını ve ucuz intel i9, amd ryzen serisi vds deneyimini yaşayın. Code Share güvencesiyle alışveriş yapın.
                                     </p>
                                 </div>     
                             </div>
