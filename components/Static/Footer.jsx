@@ -36,20 +36,20 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
+                                <Link href="/404">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Botu Oyla
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                <a href="https://discord.gg/nrNR3cg7" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Destek Sunucusu
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                <a href="https://discord.com/oauth2/authorize?client_id=1183834629883576381&scope=bot%20applications.commands&permissions=0" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Botu Davet et
                                 </a>
                             </div>
                         </div>
