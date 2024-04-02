@@ -28,6 +28,17 @@ export default function Footer() {
                                             className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
                                             aria-hidden="true"
                                         />
+
+                                         <img
+                                             src={`https://flagcdn.com/w80/gb.png`}
+                                             width="24"
+                                             height="18"
+                                             className="mr-2 h-4 rounded-sm"
+                                         />
+                                    English
+                                        <ChevronDownIcon
+                                            className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
+                                            aria-hidden="true"
                                     </Menu.Button>
                                 </div>
                             </Menu>
